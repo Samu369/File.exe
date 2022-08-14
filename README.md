@@ -1,7 +1,7 @@
 # File.exe
 
 
-#### IL FILE "File.exe" PRESENTE IN QUESTA CARTELA è UN VIRUS, NON APRIRLO SE NON SAI COSA STAI FACENDO
+#### IL FILE "File.exe" PRESENTE IN QUESTO REPOSITORY è UN VIRUS, NON APRIRLO SE NON SAI COSA STAI FACENDO
 
 
 Il fornitore e il creatore del file non sono da ritenersi responsabili per eventuali danni inflitti al PC
