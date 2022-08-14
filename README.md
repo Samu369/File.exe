@@ -10,6 +10,6 @@ Il fornitore e il creatore del file non sono da ritenersi responsabili per event
 Nel caso in cui tu abbia installato il virus, nella cartella è presente anche un file per rimuoverlo chiamato "RemoveTool.bat" eseguilo per rimuovere il virus
 
 
-
+Creatori:
 
 - Samu369
