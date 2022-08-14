@@ -2,10 +2,7 @@
 ATTENZIONE!
 
 
-
-#### -------------------------------------------------------------------------------------------------------
-#### IL FILE "File.exe" PRESENTE IN QUESTA CARTELA è UN VIRUS, NON APRIRLO SE NON SAI COSA STAI FACENDO     |
-#### ---------------------------------------------------------------------------------------------------
+#### IL FILE "File.exe" PRESENTE IN QUESTA CARTELA è UN VIRUS, NON APRIRLO SE NON SAI COSA STAI FACENDO
 
 
 
